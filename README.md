@@ -26,7 +26,7 @@ The following CSV files are used to store data:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/itsnajibul/Student-Management-System.git
+    git clone https://github.com/neural-bot/Python-Student-Management-System.git
     ```
 
 2. Ensure you have Python installed (version 3.6+).
